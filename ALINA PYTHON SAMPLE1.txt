@@ -1,0 +1,2 @@
+names = ["ALINa" , "Ahmed" , "Ali" , "Mahrukh"]
+print(names[0:2])
